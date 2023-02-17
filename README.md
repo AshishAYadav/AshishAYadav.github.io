@@ -127,7 +127,7 @@ Practices (Coursera).
 <style>
   
 * {
-    background-color: #1b1b1e;
+    /* background-color: #1b1b1e; */
     /* color: #0a244d; */
     /* color: #8cabd9; */
     color: hsl(146deg 8% 80%)
@@ -155,5 +155,8 @@ h1 {
 
 h2 {
   color: hsl(25, 70%, 45%);
+}
+html {
+  background-color: #1b1b1e;
 }
 </style>

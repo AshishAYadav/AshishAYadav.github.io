@@ -123,3 +123,37 @@ Practices (Coursera).
 - **Database technologies**: MongoDB, MySQL, PostgreSQL, DynamoDB, MSSQLSERVER, IndexedDB, CASSANDRA, SnowFlake
 - **Cloud platforms**: Amazon Web Services (AWS), Microsoft Azure, Google Cloud Platform (GCP), Digital Ocean, Atlas
 - **Other technologies**: Git, Docker, Kubernetes, Linux, Bash scripting
+
+<style>
+  
+* {
+    background-color: #1b1b1e;
+    /* color: #0a244d; */
+    /* color: #8cabd9; */
+    color: hsl(146deg 8% 80%)
+}
+
+p {
+  color: hsl(146deg 8% 80%);
+}
+
+h4 {
+  color: hsl(0deg 62% 56%); 
+}
+
+h3 {
+  color: hsl(92deg 48% 53%);; 
+}
+
+em {
+  color: hsl(210, 50%, 72%);
+}
+
+h1 { 
+    color: hsl(0deg 0% 100%);
+}
+
+h2 {
+  color: hsl(25, 70%, 45%);
+}
+</style>

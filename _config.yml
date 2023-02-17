@@ -1,7 +1,3 @@
-remote_theme: cotes2020/jekyll-theme-chirpy
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
 # The Site Configuration
 
 # Import the theme
@@ -18,50 +14,50 @@ lang: en
 
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Asia/Kolkata
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: Ashish Yadav                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Software Engineer (Full Stack)   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
+  I am a passionate developer with a deep understanding of web technologies, cloud computing, and microservices architecture. I enjoy working on challenging projects and learning new technologies to stay ahead in this rapidly evolving field.
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: ''
 
 github:
-  username: github_username             # change to your github username
+  username: AshishAYadav             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: AshishAYadav            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com             # change to your email address
+  name: Ashish Yadav
+  email: ashishyadav.tcet@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://twitter.com/AshishAYadav      # change to your twitter homepage
+    - https://github.com/AshishAYadav       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/AshishAYadav
 
-google_site_verification:               # fill in to your verification string
+# google_site_verification:               # fill in to your verification string
 
 # ↑ --------------------------
 # The end of `jekyll-seo-tag` settings
 
-google_analytics:
-  id:                 # fill in your Google Analytics ID
-  # Google Analytics pageviews report settings
-  pv:
-    proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
-    cache_path:       # the local PV cache data, friendly to visitors from GFW region
+# google_analytics:
+#   id:                 # fill in your Google Analytics ID
+#   # Google Analytics pageviews report settings
+#   pv:
+#     proxy_endpoint:   # fill in the Google Analytics superProxy endpoint of Google App Engine
+#     cache_path:       # the local PV cache data, friendly to visitors from GFW region
 
 # Prefer color scheme setting.
 #
@@ -74,17 +70,17 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode:    [dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: 'https://chirpy-img.netlify.app'
+# img_cdn: 'https://chirpy-img.netlify.app'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: '/commons/avatar.jpg'
+avatar: 'https://avatars.githubusercontent.com/u/25642690'
 
 # boolean type, the global switch for ToC in posts.
 toc: true

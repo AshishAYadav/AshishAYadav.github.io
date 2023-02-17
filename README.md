@@ -156,7 +156,7 @@ h1 {
 h2 {
   color: hsl(25, 70%, 45%);
 }
-html {
-  background-color: #1b1b1e;
+html, body {
+  background-color: #1b1b1e !important;
 }
 </style>
